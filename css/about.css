@@ -1,0 +1,7 @@
+#about > .left-about-image > .img {
+    height: 35vh;
+    border: none;
+    border-radius: 50px;
+    box-shadow: .5px .5px .5px .5px rgb(143, 95, 95);
+    margin: 70px;
+}

@@ -1,0 +1,44 @@
+.navbar > ul {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: red; */
+    height: 8.2vh;
+}
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+
+.right {
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 80px;
+}
+
+.left {
+    margin: 5px 80px;
+}
+
+li{
+    padding: 10px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    /* margin-top: 20px; */
+}
+
+a:hover {
+    border-bottom: 1.5px solid rgb(196, 97, 97);
+    transition: all .25s ease-in-out;
+    color: red;
+}
+
+ul > .left > h2 {
+    margin-top: 6px;
+}

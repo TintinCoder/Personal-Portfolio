@@ -1,0 +1,26 @@
+#home > h3 {
+    padding-top: 20vh;
+    padding-left: 20vw;
+    font-size: 23.5px;
+}
+
+.name {
+    color: red;
+    font-weight: bolder;
+}
+
+.intro {
+    margin: 40vh 21vw;
+    font-size: 23px;
+}
+
+.image-intro{
+    height: 50vh;
+    width: max-content;
+    float: right;
+    margin-right: 70px;
+    margin-top: -400px;
+    border: 0px solid white;
+    border-radius: 40px;
+    box-shadow: 1px 1px 1px 1px rgb(255, 185, 185);
+}

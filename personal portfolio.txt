@@ -1,0 +1,14 @@
+									My Personal Portfolio Basic Layout and Color Schemes
+
+Color Schemes -: 
+Black and Its Shades, Red, White
+
+Layout -: 
+
+NavBar - "Divyam at the left" and the home, about me, my work, services, contact me pages
+Home - Add an image at the right and add some basic text like Your work and name on the left
+
+About Me - Add your skills, expirience and education.
+My Work - Create some cards(approx. 3) with a image and text of your works.
+Services - List some services which you provide.
+Contact Me - Add the basic inputs, textarea and the facebook, insta and gmail link buttons.
