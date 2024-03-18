@@ -1,0 +1,4 @@
+											MY PERSONAL PORTFOLIO
+
+1) Decide a Layout
+2) Start the project by adding the basic folder structure.
